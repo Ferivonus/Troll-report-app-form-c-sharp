@@ -1,2 +1,2 @@
 # Troll-report-desktop-app
- I made a troll report app. With that, I will develop that desktop application morre in future.
+a code of c# form which can collect data from users about internet trolls

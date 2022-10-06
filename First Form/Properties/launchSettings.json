@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "First Form": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
